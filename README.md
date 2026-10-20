@@ -10,6 +10,14 @@ Predii is a document question-answering chat application built with **Next.js 16
 - **Spec extraction** — answers are returned as a validated JSON array of `{ component, spec_type, value, unit }` rows, never empty.
 - **Dark/light mode** — system-preference aware with a custom paper/ink/accent palette.
 
+## Screenshots
+
+### Document Chat Interface & Question Starters
+![Predii Document Chat Interface](img/img1.png)
+
+### Vehicle Specification Extraction (JSON Output)
+![Predii Specification Extraction Response](img/img2.png)
+
 ## System architecture
 
 ```
