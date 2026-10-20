@@ -78,6 +78,7 @@ predii/
 │   └── format.ts           # SYSTEM_PROMPT, answer schema, context builder
 ├── embed_server.py         # FastAPI + sentence-transformers + ChromaDB server
 ├── pdf/                    # Source markdown documents (.md converted from PDFs)
+├── img/                    # UI screenshots
 ├── chroma_db/              # Persistent vector database (created at runtime)
 ├── .env                    # NVIDIA_API_KEY, NVIDIA_MODEL (not committed)
 ├── package.json            # Next.js 16, React 19, TypeScript, Tailwind v4
